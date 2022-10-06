@@ -1,0 +1,10 @@
+ Hi This is file6 to commit
+apt-get isntall git -u
+apt-get git init
+git add
+git commit
+git config --global user.name "babutataramesh"
+git config --global user.mail "babutataramesh@gmail.com"
+git remote add origin master url
+git push -u origin master url
+
